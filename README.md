@@ -1,4 +1,4 @@
-![Screenshot 2024-12-13 231052](https://github.com/user-attachments/assets/2b4df43e-0439-4f5e-bcec-b60f797cccef)# BOOLEAN_FUNCTION_MINIMIZATION
+# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -38,27 +38,23 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by:Haresh R
 RegisterNumber:24901004
 
-
 **RTL realization**
-![Screenshot 2024-12-13 230854](https://github.com/user-attachments/assets/ebbff50e-25d4-45c2-9496-bc395d072ece)
+![Screenshot 2024-12-13 230854](https://github.com/user-attachments/assets/a8889c19-b55b-4a39-8a30-731d5ddd707e)
+
 
 
 **Output:**
-![Screenshot 2024-12-13 231052](https://github.com/user-attachments/assets/c5098cae-2557-4a50-a967-f4d81a292c84)
-
-![Uploading Screenshot 2024-12-13 231107.png…]()
-
+![Screenshot 2024-12-13 231107](https://github.com/user-attachments/assets/123b35dc-386f-4014-b7f6-da01e5ef96b3)
+![Screenshot 2024-12-13 231052](https://github.com/user-attachments/assets/56f045f9-15f5-4547-8b91-10762129c0e7)
 
 
 **RTL**
-![Screenshot 2024-12-13 231610](https://github.com/user-attachments/assets/094178d2-e423-4442-a569-f5b98c4e65f5)
+![Screenshot 2024-12-13 231610](https://github.com/user-attachments/assets/adcc2d29-dd00-4f50-a826-7569d4bdb016)
 
 
 **Timing Diagram**
 
 **Result:**
- Thus the given logic functions are implemented using and their operations are
- verified using Verilog programming
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
